@@ -11,5 +11,12 @@ body {
 }
 
 #carouselExampleSlidesOnly {
-  width: 300px;
+  width: 500px;
+  margin: auto;
+}
+
+#navbarsExampleDefault {
+  position: absolute;
+    left: 50%;
+    transform: translatex(-50%)
 }
