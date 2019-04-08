@@ -5,33 +5,64 @@ border-color:grey;
 padding: 1em;
 border-radius: 30px;
 margin-left: 500px;
+font-family: "Poppins", sans-serif;
 }
+header {
+  width: 350px;
+border-color:grey;
+font-size: 3em
+border-radius: 30px;
+margin-left: 500px;
+}
+
+body {
+  background-color: khaki;
+}
+
 #neworleans {
   margin-left: 500px;
   margin-top: 80px;
   margin-right: 45px;
   margin-bottom: -5px;
+  color: white;
+  background-image: url("../images/new-orleans.jpg");
+  -webkit-animation: myfirst 5s ; /* Chrome, Safari, Opera */
+  animation: myfirst 10s ;
+}
+
+@-webkit-keyframes myfirst {
+  from {opacity: 0.2;}
+  to {opacity: 1;}
 }
 
 #tbilisi {
   margin-left: 500px;
+  color: white;
   margin-top: 80px;
   margin-right: 45px;
   margin-bottom: -5px;
+  background-image: url("../images/tbilisi.jpg");
+  -webkit-animation: myfirst 5s ; /* Chrome, Safari, Opera */
+  animation: myfirst 10s ;
 }
 #buenosaires {
   margin-left: 500px;
   margin-top: 80px;
   margin-right: 45px;
   margin-bottom: -5px;
+  color: white;
+  -webkit-animation: myfirst 5s ; /* Chrome, Safari, Opera */
+  animation: myfirst 10s ;
+  background-image: url("../images/buenos-aires.jpg");
 }
 #florence {
   margin-left: 500px;
   margin-top: 80px;
   margin-right: 45px;
   margin-bottom: -5px;
-}
-
-body {
-  background-color: khaki;
+  color: white;
+  text-decoration:none;
+  -webkit-animation: myfirst 5s ; /* Chrome, Safari, Opera */
+  animation: myfirst 10s ;
+  background-image: url("../images/florence.jpg");
 }
