@@ -1,20 +1,29 @@
-# CFG Week One
-## Intro to the world of the web and HTML
+# Bootstrap
 
-Welcome to Code First Girls!
+Welcome to twitter bootstrap! This is a template website that you will use to experiment with the framework, adding components and adjusting the styles accordingly. You will revisit this throughout the session but first, you will need to download it to your machine.
 
-To complete this excercise, click on the green 'Clone or Download' button on the top right, and select the 'Download ZIP' option.
+## First Task
+- Click on the 'Fork' icon on the top right of the page, and fork it into your github account.
+You will now have your own copy of this excercise on your github profile.
+- Navigate to your version of this project
+- Click 'clone or download'
+- Select the 'open in desktop' option
+- Clone the repo into your coding_course folder, here is an example:
+- Open the folder in Atom
 
-Unzip the folder and move it into your coding_course folder. Then, open the whole folder in Atom.  
-
-*Top tip! You can do this by dragging the folder onto the Atom icon on macs*
-
-## Task one
-Open the file 'example.html' in Chrome and look around with the developer tools. What HTML tags can you see, and what do you think they stand for?
-
-## Task two
-Open the file 'index.html' in your text editor and in Chrome,  change it into valid HTML file so that it looks like index_solution.jpg. Make sure to add the doctype, html, head and body tags!
+![Example of how to clone into folder using github desktop](./images/clone-in-desktop-example.png)
 
 
-## Extension task
-Create a new file called 'html-cheatsheet.html'. In here write down all you can know about HTML and the different tags from the lesson and from the example page. Make sure to mark it all up with valid HTML, and make sure that it is properly indented!
+## Second Task
+Link the bootstrap CSS into your HTML
+
+You can find this by looking for the CDN link on [Bootstrap.com](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
+
+
+## Third Task
+
+1. Add a new row in the page that has two columns, with a block of writing in each.
+2. Add a Carousel to the top of your page, with pictures! [instructions here](https://getbootstrap.com/docs/4.1/components/carousel/)
+3. Add a modal to your page [instructions here](https://getbootstrap.com/docs/4.1/components/modal/)
+4. Write over bootstrap! In the 'styles.css' file, change the design of the default CSS styles (this could be colors, fonts, images - the website is your oyster)
+5. Add any more boostrap componenets you think look cool!
