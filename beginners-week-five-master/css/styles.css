@@ -1,10 +1,12 @@
 body {
   padding-top: 5rem;
   background-color: khaki;
-  font-family: georgia;
+  font-family: "Poppins", sans-serif
   text-shadow: 2px 2px #ff0000
 
 }
+
+
 .starter-template {
   padding: 3rem 1.5rem;
   text-align: center;
