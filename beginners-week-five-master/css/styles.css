@@ -10,7 +10,7 @@ body {
 .starter-template {
   padding: 3rem 1.5rem;
   text-align: center;
-  
+
 }
 
 #carouselExampleSlidesOnly {
@@ -36,6 +36,10 @@ body {
   transform: translatex(-50%)
   font-family: fantasy;
   text-shadow: 2px 2px #ff0000;
+}
+
+.nav-item {
+  padding: 20px;
 }
 
 
