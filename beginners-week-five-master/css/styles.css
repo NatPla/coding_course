@@ -10,6 +10,7 @@ body {
 .starter-template {
   padding: 3rem 1.5rem;
   text-align: center;
+  
 }
 
 #carouselExampleSlidesOnly {
@@ -40,14 +41,15 @@ body {
 
 #maintext  {
 
-font-family: georgia;
+font-family: "Poppins", sans-serif
 text-shadow: 0px 0px;
+
 
 
 }
 
 ul {
-  font-family: georgia;
+  font-family: "Poppins", sans-serif
   text-shadow: 0px 0px;
 }
 
